@@ -14,3 +14,6 @@ The goal is to derive actionable insights that could help improve content strate
 The analysis is based on two datasets:
 - pinterest_posts.csv — Contains information on posts, including likes, comments, hashtags, categories, and posting times.
 - pinterest_profiles.csv — Includes user profile data such as follower counts and usernames.
+
+
+***This analysis is based on publicly available data and may not reflect Pinterest’s internal metrics.***
